@@ -1,7 +1,7 @@
 # Sentiment Analysis App
 
 A simple Sentiment Analysis project using Python, scikit-learn, and Streamlit. 
-Users can enter any comment, and the app will classify it as Positive (Good) or Negative (Bad) and provide an auto reply.
+Users can enter any comment, and the app will classify it as Positive (Good) or Negative (Bad) and provide an auto reply
 
 ## Features
 - Analyze user comments in real-time
